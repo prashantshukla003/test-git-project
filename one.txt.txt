@@ -1,2 +1,5 @@
-This line has been added from github.
+1. This line has been added from github.
 let's try to 'pull' it on our local system.
+
+2. This line is added from the local machine after pulling it from the github.
+
